@@ -1,4 +1,4 @@
-# Desafio_Cyberseguranca
+# Desafio_Cibersegurança
 
 # 📘 Análise Educacional – Criptografia e Captura de Teclas em Python
 
